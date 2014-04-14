@@ -1,3 +1,6 @@
-Making a new file, pluto! 
+Original: Making a new file, pluto! 
 
-making a change on me2 and will then push it to the repository. 
+Change 2: making a change on me2 and will then push it to the repository. 
+
+Change3: Making this note on original folder, This file has been pulled from GitHub where it was uploaded after being pushed by me2.
+
