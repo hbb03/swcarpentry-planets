@@ -1,3 +1,5 @@
 Making a new file, pluto! 
 
 making a change on me2 and will then push it to the repository. 
+
+And then me2 made changes without pulling from GitHub 
